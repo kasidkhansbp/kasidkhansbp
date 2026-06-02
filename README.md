@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Kasid 👋
 
-<!--
-**kasidkhansbp/kasidkhansbp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build utility tools for developers working with LLMs and AI agents.
 
-Here are some ideas to get you started:
+My work is practical: real problems, focused solutions, and tools you can actually use in your stack today.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm building **[llm-inspect](https://github.com/kasid)** — a devtools-style debugger for LLM API calls. Inspect requests, responses, token usage, cost, and tool calls in real time. Built for developers who are tired of flying blind when debugging AI agents.
+
+I also run **[TPMGuild](https://www.tpmguild.com)** — a job board for Technical Program Managers in the UK that only shows roles at verified visa-sponsoring companies. No more applying and finding out too late.
+
+## What I work on
+
+- LLM observability: inspect, debug, and understand what your agent is actually doing.
+- Developer utilities: tools that slot into your existing workflow without friction.
+- Visa-verified job search: helping TPMs in the UK cut through the noise.
+
+## About Me
+
+- TPM with 13+ years in software developement — building data platforms, shipping at scale.
+- Building in public at the intersection of AI tooling and developer experience.
+- Based in London 🇬🇧
