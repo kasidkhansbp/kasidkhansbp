@@ -4,7 +4,7 @@ I build utility tools for developers working with LLMs and AI agents.
 
 My work is practical: real problems, focused solutions, and tools you can actually use in your stack today.
 
-I'm building **[llm-inspect](https://github.com/kasid)** — a devtools-style debugger for LLM API calls. Inspect requests, responses, token usage, cost, and tool calls in real time. Built for developers who are tired of flying blind when debugging AI agents.
+I'm building **[llm-inspect](https://github.com/kasidkhansbp/llm-inspect)** — a devtools-style debugger for LLM API calls. Inspect requests, responses, token usage, cost, and tool calls in real time. Built for developers who are tired of flying blind when debugging AI agents.
 
 I also run **[TPMGuild](https://www.tpmguild.com)** — a job board for Technical Program Managers in the UK that only shows roles at verified visa-sponsoring companies. No more applying and finding out too late.
 
